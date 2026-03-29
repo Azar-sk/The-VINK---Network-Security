@@ -1,0 +1,11 @@
+# Environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Secrets
+serviceAccountKey.json
+
+# Large Data (Optional - if over 100MB)
+*.csv
